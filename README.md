@@ -21,6 +21,7 @@ The system is trained on a large-scale yoga pose dataset containing **107 postur
 - Classes: 107 yoga/exercise postures
 - Images: ~6000+
 - Format: RGB images organized in class folders
+- link- https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset
 
 ---
 
