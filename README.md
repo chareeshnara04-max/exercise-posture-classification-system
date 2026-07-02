@@ -7,11 +7,13 @@ The system is trained on a large-scale yoga pose dataset containing **107 postur
 
 ---
 
-## 🎯 Objectives
-- Build a CNN model for exercise posture classification
-- Improve performance using Transfer Learning (MobileNetV2)
-- Evaluate model using accuracy, loss, confusion matrix, and classification report
-- Compare CNN vs Transfer Learning performance
+## Objectives
+
+- Develop a Custom CNN model for exercise posture classification.
+- Implement a MobileNetV2 architecture for performance comparison.
+- Evaluate both models using accuracy, loss, confusion matrix, precision, recall, F1-score, and classification report.
+- Compare the performance of the Custom CNN and MobileNetV2 models.
+- Analyze the challenges of multi-class exercise posture classification using 107 yoga pose categories.
 
 ---
 
