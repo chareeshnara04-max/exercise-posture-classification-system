@@ -81,6 +81,7 @@ The system is trained on a large-scale yoga pose dataset containing **107 postur
 - Seaborn
 
 ---
+KAGGLE note book link: https://www.kaggle.com/code/nchareesh/yoga-pose-classification
 
 ## 🚀 How to Run
 
