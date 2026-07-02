@@ -83,6 +83,52 @@ The system is trained on a large-scale yoga pose dataset containing **107 postur
 ---
 KAGGLE note book link: https://www.kaggle.com/code/nchareesh/yoga-pose-classification
 
+
+Work flow:
+Start
+   │
+   ▼
+Import Libraries
+   │
+   ▼
+Load Dataset
+   │
+   ▼
+Data Preprocessing
+• Resize images
+• Normalize pixel values
+• Encode labels
+   │
+   ▼
+Data Augmentation
+   │
+   ▼
+Split Dataset
+(80% Train / 20% Validation)
+   │
+   ├──────────────┐
+   ▼              ▼
+Custom CNN     MobileNetV2
+   │              │
+   ▼              ▼
+Model Training
+   │
+   ▼
+Model Evaluation
+• Accuracy
+• Loss
+• Precision
+• Recall
+• F1-score
+• Confusion Matrix
+   │
+   ▼
+Model Comparison
+   │
+   ▼
+Results & Conclusion
+
+
 ## 🚀 How to Run
 
 ### 1. Clone Repository
